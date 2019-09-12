@@ -12,7 +12,7 @@ Erfassen eines Themas mit Verantwortlichen zu einer Veranstaltung, evtl. Zuordnu
 1. Voting für Themen  
 Für eine bessere Raumzuordnung, Ermittlung des Interesses/potentiellen Teilnehmer
 1. Starten eines Themas  
-Für Ad-hoc-Themen oder Zeitlich nicht definierten Themen kann das Thema gestartet werden, hierzu sollte auch ein Ort festgelegt worden sein.
+Für Ad-hoc-Themen oder zeitlich nicht definierten Themen kann das Thema gestartet werden, hierzu sollte auch ein Ort festgelegt worden sein.
 1. Erstellen von Tags  
 Eine Möglichkeit QR- oder NFC-Tags zu schreiben. Voraussichtlich in Klartext, um auch die einfache textuelle Zuordnung von Orten vornehmen zu können.
 
@@ -29,7 +29,7 @@ ist möglicherweise nicht notwendig
 ## Teilnehmer
 - Name
 - Vorname
-- Orga ?Ist Orga ein extra Typ?
+- Orga ?Ist Orga ein extra Typ?  
 ...
 ## Thema
 - Titel
