@@ -44,16 +44,27 @@ ist möglicherweise nicht notwendig
 - Name
 
 # Sichten
-- Liste der aktuellen Themen  
-Eine Sortierung/Gruppierung nach
+## Menü
+![Menü](./images/Menü.png)
+## Liste der aktuellen Themen  
+Eine Sortierung/Gruppierung nach:
   - Zeit
   - Stichwort
   - Ort
-- Detailansicht Teilnehmers  
+  - gemerkten Themen
+## Detailansicht Teilnehmers  
   - Name, Vorname, ...
   - Themen (Verantwortlicher)
   - Themen (Teilnehmer)
-- Login
-- Impressum
-- Neues Thema
-- Detailansicht Thema
+## Login
+## Impressum
+## Neues Thema
+## Detailansicht Thema
+
+# Ideen
+- Einfache Twitteranbindung  
+Neuen Tweet erstellen, ggf. über Link zu Twitter
+- Einfacher Messenger zwischen den Teilnehmern
+- Kommentare zu Diskussionen/Themen
+- Merken von Themen
+- Sprung vom Ort des Themas auf die Kartenansicht
