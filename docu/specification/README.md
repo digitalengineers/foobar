@@ -69,3 +69,4 @@ Neuen Tweet erstellen, ggf. über Link zu Twitter
 - Merken von Themen
 - Sprung vom Ort des Themas auf die Kartenansicht
 - Lokalisierung
+- Offline-Fähigkeit (schlechte Internet-Anbindung)
